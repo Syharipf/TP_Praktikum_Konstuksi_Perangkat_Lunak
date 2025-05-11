@@ -25,7 +25,7 @@ do
 Console.Write("\nProgram B"); // Program kedua
 int[] genap = { 2, 4, 6, 8, 10 }; // Array untuk angka genap 2-10
 
-// Statement untuk print semua element yang berada di dalam array genap
+// Statement untuk print semua elemen yang berada di dalam array genap
 for (int i = 0; i < 5; i++)
 {
     Console.Write("\nAngka genap {0} : {1}", i, genap[i]);
